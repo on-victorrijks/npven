@@ -31,17 +31,18 @@ npven_create(
 );
 ```
 So let's explain each of these :
+
 | Name  | Type of info | Posibilities |
 | ------------- | ------------- | ------------- |
-| Type  | number  | 1 to load an url when button 'OK' is pressed / 2 to execute a function|
-| Title | string  | just a title |
-| Content  | string  | just a content (you can put html in it <img> for exemple)  |
-| Choice  | number  | 0 = No choice (only OK button) / 1 = Two choice (if type = 1 --> only Accept:go to url / deny:close the alert ) |
-| url  | string  | if type = 1 : just put an url or put reload to reload the page onClick / If type = 2 : put two function for example ``` accept(),deny() ``` (max 2 functions)|
-| timer  | number  | 0 = disable / 1 or more = enable && time (60 = 2 minutes for example)  |
-| timertype | number  | 1 = close the alert after x seconds / 2 = go to url after x seconds |
-| frame | string  | id of the frame where the alert'll appear (EMPTY) |
-| anim | string  | none = disable / fade = fade (1.1s) / slide = slide (1.1s) |
+| Type  | number | 1 to load an url when button 'OK' is pressed / 2 to execute a function |
+| Title | string | just a title |
+| Content | string | just a content (you can put html in it <img> for exemple)  |
+| Choice | number | 0 = No choice (only OK button) / 1 = Two choice (if type = 1 --> only Accept:go to url / deny:close the alert ) |
+| url | string | if type = 1 : just put an url or put reload to reload the page onClick / If type = 2 : put two function for example accept(), deny() (max 2 functions) |
+| timer | number | 0 = disable / 1 or more = enable && time (60 = 2 minutes for example)  |
+| timertype | number | 1 = close the alert after x seconds / 2 = go to url after x seconds |
+| frame | string | id of the frame where the alert'll appear (EMPTY) |
+| anim | string | none = disable / fade = fade (1.1s) / slide = slide (1.1s) |
 
 #### Example
 
