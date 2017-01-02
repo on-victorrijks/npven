@@ -2,7 +2,7 @@
 Make easy and customizable alerts with JavaScript
 
 *Hi*
-on many of my projects, I need to have interactives, customizable and easy to set up alerts. So I create divs, js animation, functions,... A lot of stuff just for one single alert. So I decided to make a module for it. You just type important infos in a function, and it's done ! You can modify the design with CSS or copy/paste somes of mine. You can starts multiples alerts simultaneously, add timer, add a cutsom number of buttons with funtions, add images, textlines and animations !
+on many of my projects, I need to have interactives, customizable and easy to set up alerts. So I create divs, js animation, functions,... A lot of stuff just for one single alert. So I decided to make a module for it. You just type important infos in a function, and it's done ! You can modify the design with CSS or copy/paste somes of mine. You can starts multiples alerts simultaneously, add timer, add a custom number of buttons with funtions, add images, textlines and animations !
 
 # Functions
 
