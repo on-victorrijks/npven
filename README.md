@@ -85,7 +85,6 @@ npven_custom(
 	"slide" // animation
 );
 ```
- = function (textline, buttons, actions, images, frame, anim) {
 
 
 | Name  | Type of info | Posibilities |
