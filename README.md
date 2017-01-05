@@ -62,7 +62,7 @@ Spotify in content
 
 Here's the syntax
 ```javascript
-npven_create(frame);
+npven_clear_spec(frame);
 ```
 
 
